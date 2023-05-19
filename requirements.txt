@@ -4,3 +4,4 @@ DateTime==4.3
 python-dateutil==2.8.2
 streamlit==1.22.0
 mysqlclient
+sqlalchemy
